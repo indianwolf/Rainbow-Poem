@@ -3,5 +3,6 @@ The Rainbow
 Purpule
 Pink
 Blue 
+Unicorn
 Green
 These are colors of rainbow
